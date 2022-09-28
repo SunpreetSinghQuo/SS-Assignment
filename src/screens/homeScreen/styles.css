@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 40px;
+    /* background-color: red; */
+    /* text-align: center; */
+}
+
+.app-button {
+    padding: 20px 10px;
+    float: right;
+  }
+
+.button-Wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+  
